@@ -1,4 +1,4 @@
-👋 Hi there, I'm Md. Ashraful Alam
+👋 Hi there, I'm Ashraful Rasel
 I'm a Full-Stack Web Developer specializing in Laravel (PHP) on the backend and React.js on the frontend. I build scalable web applications with clean code, modular architecture, and user-friendly interfaces.
 
 💼 What I Do:
