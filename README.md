@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi there, I'm Md. Ashraful Alam
+I'm a Full-Stack Web Developer specializing in Laravel (PHP) on the backend and React.js on the frontend. I build scalable web applications with clean code, modular architecture, and user-friendly interfaces.
 
-<!--
-**AshrafulRasel/AshrafulRasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 What I Do:
+🔧 Backend Development: Laravel | RESTful APIs | Authentication | Queues | Events | Artisan commands
 
-Here are some ideas to get you started:
+🎨 Frontend Development: React | JSX | Hooks | Context API | SPA | Inertia.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗃️ Database: MySQL | PostgreSQL | Query Optimization | Migrations | Eloquent ORM
+
+🚀 Tools & DevOps: Git | GitHub Actions | Docker | Jenkins | Vite | Webpack
+
+🛠️ Other Skills: Vue.js | Bootstrap | Tailwind CSS | jQuery | Ajax | REST & JSON APIs
+
+🧠 I Believe In:
+Writing clean, maintainable, and testable code
+
+Following SOLID principles and design patterns
+
+Continuous learning and improvement
+
+Collaborating and leading agile teams
+
+🌱 Currently:
+Learning React Query, Next.js, and improving my DevOps skills.
+
+📫 Let's Connect:
+GitHub: github.com/AshrafulRasel
+
+LinkedIn: [linkedin.com/in/ashrafulrasel 
+](https://www.linkedin.com/in/ashraful-rasel-139111135)
+
+Portfolio: Coming soon!
